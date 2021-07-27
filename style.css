@@ -764,33 +764,3 @@
      text-transform: uppercase;
      color: #0A0A0A;
  }
- /* page-photo*/
- /* Wrapppers */
- 
- .wrapper-main {
-     margin: 0 20vw;
- }
- 
- .wrapper-gallery {
-     margin: 0 20vw;
- }
- /*Default text styling */
- 
- p {
-     font-family: Arial, Helvetica, sans-serif;
-     font-size: 16px;
-     margin-top: 140px;
- }
- 
- h2 {
-     font-family: arial, Helvetica, sans-serif;
-     font-size: 32px;
- }
- /* Gallery container */
- 
- #index-gallery {
-     display: grid;
-     grid-template-columns: 1fr 1fr 1fr 1fr;
-     grid-template-rows: auto;
-     grid-gap: 10px;
- }
